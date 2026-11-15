@@ -1,0 +1,14 @@
+# 抖音 / 评论 / 发布 / 上传 / 用户API接口
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,aweme.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN,sso.douyin.com
+DOMAIN,api-douyin.com
+DOMAIN-KEYWORD,aweme-user
+DOMAIN-KEYWORD,aweme-comment
+DOMAIN-KEYWORD,aweme-publish
+DOMAIN-KEYWORD,aweme-upload
+DOMAIN-KEYWORD,byteupload

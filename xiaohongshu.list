@@ -1,0 +1,12 @@
+# 小红书 / 评论 / 发布 / 上传 / 用户API接口
+DOMAIN-SUFFIX,api.xiaohongshu.com
+DOMAIN-SUFFIX,edith.xiaohongshu.com
+DOMAIN-SUFFIX,rec.xiaohongshu.com
+DOMAIN-SUFFIX,msg.xiaohongshu.com
+DOMAIN-SUFFIX,chat.xiaohongshu.com
+DOMAIN-SUFFIX,user.xiaohongshu.com
+DOMAIN-SUFFIX,profile.xiaohongshu.com
+DOMAIN-SUFFIX,www.xiaohongshu.com
+DOMAIN-SUFFIX,ros-upload.xiaohongshu.com
+DOMAIN-SUFFIX,upload.xiaohongshu.com
+DOMAIN-SUFFIX,upload-vod.xiaohongshu.com
