@@ -1,0 +1,11 @@
+# 抖音视频直连
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+
+# 抖音直播直连
+DOMAIN,live.douyin.com
+DOMAIN,webcast.amemv.com
+DOMAIN-KEYWORD,douyin-live
+DOMAIN-KEYWORD,live-douyin
+DOMAIN-KEYWORD,webcast
